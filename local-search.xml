@@ -4,13 +4,27 @@
   
   
   <entry>
-    <title>Hello World</title>
+    <title>你好，这是 HW 的博客</title>
     <link href="/2026/09/18/hello-world/"/>
     <url>/2026/09/18/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到这里。这是我在互联网上的一块小小自留地，用来记录代码、学习以及日常里值得被留下的瞬间。</p><h2 id="为什么写博客"><a href="#为什么写博客" class="headerlink" title="为什么写博客"></a>为什么写博客</h2><p>信息流速度很快，而写作让人慢下来。它迫使我把「大概明白」变成「能够说清楚」，也让一些零散的思考在时间里有迹可循。</p><h2 id="这里会有什么"><a href="#这里会有什么" class="headerlink" title="这里会有什么"></a>这里会有什么</h2><ul><li><strong>开发实践</strong>：问题复盘、工具使用和可复用的技术笔记。</li><li><strong>学习记录</strong>：阅读、尝试和一些还没有定论的想法。</li><li><strong>生活片段</strong>：照片、旅途与普通日子里的灵光。</li></ul><p>我会尽量让每篇文章都回答一个具体问题，或者至少真诚地记录一次探索。</p><h2 id="从这里开始"><a href="#从这里开始" class="headerlink" title="从这里开始"></a>从这里开始</h2><p>你可以通过导航查看<a href="/archives/">归档</a>，或在<a href="/picture/">相册</a>里看看我眼中的世界。如果你愿意，也可以去<a href="/about/">关于</a>页了解更多。</p>]]></content>
     
     
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>博客</tag>
+      
+      <tag>开始</tag>
+      
+    </tags>
     
   </entry>
   
