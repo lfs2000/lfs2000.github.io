@@ -1,38 +1,28 @@
 ---
-title: Hello World
+title: 你好，这是 HW 的博客
+date: 2026-09-18 10:09:00
+updated: 2026-10-14 10:00:00
+categories:
+  - 随笔
+tags:
+  - 博客
+  - 开始
+index_img: /img/hero.svg
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+欢迎来到这里。这是我在互联网上的一块小小自留地，用来记录代码、学习以及日常里值得被留下的瞬间。
 
-## Quick Start
+## 为什么写博客
 
-### Create a new post
+信息流速度很快，而写作让人慢下来。它迫使我把「大概明白」变成「能够说清楚」，也让一些零散的思考在时间里有迹可循。
 
-``` bash
-$ hexo new "My New Post"
-```
+## 这里会有什么
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+- **开发实践**：问题复盘、工具使用和可复用的技术笔记。
+- **学习记录**：阅读、尝试和一些还没有定论的想法。
+- **生活片段**：照片、旅途与普通日子里的灵光。
 
-### Run server
+我会尽量让每篇文章都回答一个具体问题，或者至少真诚地记录一次探索。
 
-``` bash
-$ hexo server
-```
+## 从这里开始
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+你可以通过导航查看[归档](/archives/)，或在[相册](/picture/)里看看我眼中的世界。如果你愿意，也可以去[关于](/about/)页了解更多。

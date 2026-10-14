@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">日落色的抽象山川</title>
+  <desc id="desc">深蓝夜色、暖色落日与层叠山峦构成的抽象风景</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102b3f"/>
+      <stop offset="0.58" stop-color="#214d5b"/>
+      <stop offset="1" stop-color="#d56f52"/>
+    </linearGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#315f67"/>
+      <stop offset="1" stop-color="#17323e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1200" cy="244" r="88" fill="#f4c98b" opacity=".92"/>
+  <path d="M0 582C180 518 300 529 464 582s299 53 456-32 306-86 680 36v314H0Z" fill="#e3a270" opacity=".5"/>
+  <path d="M0 660c238-117 383-83 565-15 198 74 318-43 475-88 166-47 316-9 560 102v241H0Z" fill="url(#ridge)"/>
+  <path d="M0 753c224-95 405-54 567 12 202 83 369-6 507-47 166-50 315-28 526 38v144H0Z" fill="#102733"/>
+  <g fill="none" stroke="#f6dfba" stroke-width="2" opacity=".28">
+    <path d="M80 163c245 82 421 23 601-30 179-52 363-84 706 22"/>
+    <path d="M38 210c266 88 458 34 651-25 192-59 397-87 753 34"/>
+    <path d="M188 350c187 45 343 17 490-31 192-63 377-53 596 28"/>
+  </g>
+</svg>
